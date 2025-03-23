@@ -1,0 +1,10 @@
+D:\soft\LINTest\LINTestMI_bico\Project\bin\Debug\Project.exe.config
+D:\soft\LINTest\LINTestMI_bico\Project\bin\Debug\Project.exe
+D:\soft\LINTest\LINTestMI_bico\Project\bin\Debug\Project.pdb
+D:\soft\LINTest\LINTestMI_bico\Project\obj\Debug\LINTestMI_bico.csproj.AssemblyReference.cache
+D:\soft\LINTest\LINTestMI_bico\Project\obj\Debug\Project.Form1.resources
+D:\soft\LINTest\LINTestMI_bico\Project\obj\Debug\Project.Properties.Resources.resources
+D:\soft\LINTest\LINTestMI_bico\Project\obj\Debug\LINTestMI_bico.csproj.GenerateResource.cache
+D:\soft\LINTest\LINTestMI_bico\Project\obj\Debug\LINTestMI_bico.csproj.CoreCompileInputs.cache
+D:\soft\LINTest\LINTestMI_bico\Project\obj\Debug\Project.exe
+D:\soft\LINTest\LINTestMI_bico\Project\obj\Debug\Project.pdb

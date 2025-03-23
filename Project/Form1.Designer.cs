@@ -218,7 +218,7 @@
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(45, 20);
             this.textBox5.TabIndex = 31;
-            this.textBox5.Text = "10";
+            this.textBox5.Text = "02";
             this.textBox5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label7
@@ -306,8 +306,9 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(45, 20);
             this.textBox1.TabIndex = 25;
-            this.textBox1.Text = "10";
+            this.textBox1.Text = "0B";
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label3
             // 
