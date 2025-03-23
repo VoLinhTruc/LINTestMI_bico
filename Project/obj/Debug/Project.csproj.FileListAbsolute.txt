@@ -38,3 +38,13 @@ F:\淘宝店铺装修资料\产品\模块\LINTest-MI\二次开发例程\C# LINTe
 F:\淘宝店铺装修资料\产品\模块\LINTest-MI\二次开发例程\C# LINTest-MI  例程 20240211\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
 F:\淘宝店铺装修资料\产品\模块\LINTest-MI\二次开发例程\C# LINTest-MI  例程 20240211\Project\Project\obj\Debug\Project.exe
 F:\淘宝店铺装修资料\产品\模块\LINTest-MI\二次开发例程\C# LINTest-MI  例程 20240211\Project\Project\obj\Debug\Project.pdb
+C:\Users\bico\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\bico\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\bico\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\bico\Desktop\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\bico\Desktop\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\bico\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\bico\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\bico\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\bico\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\bico\Desktop\Project\Project\obj\Debug\Project.pdb

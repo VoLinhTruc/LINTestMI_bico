@@ -328,13 +328,13 @@ namespace Project
 			if (PortName == "")
 			{
 				//如果，无法打开串口，则提示 警告
-				MessageBox.Show("打开串口失败 或 无可使用的端口", "提示", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+				MessageBox.Show("Failed to open the serial port or no available port", "OK", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 				return;   //退出 程序
 			}
 
 			if (comboBox2.Text=="")
 			{
-				MessageBox.Show("请选择任意一个LIN波特率！！", "提示", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+				MessageBox.Show("Please select any LIN baud rate!!", "OK", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 				return;   //退出 程序
 			}
 
@@ -388,7 +388,7 @@ namespace Project
 			}
 			else
 			{
-				MessageBox.Show("打开串口失败或端口正在使用", "提示", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+				MessageBox.Show("Failed to open the serial port or the port is in use", "OK", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 			}
 		}
 
@@ -417,7 +417,7 @@ namespace Project
 			}
 			else
 			{
-				MessageBox.Show("关闭串口失败", "提示", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+				MessageBox.Show("Failed to close the serial port", "OK", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 			}
 		}
 
@@ -491,14 +491,14 @@ namespace Project
 			im4_ID = Convert.ToByte(textBox5.Text,16);
 			if (im4_ID > 0x3F)
 			{
-				MessageBox.Show("ID超出范围！", "提示", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+				MessageBox.Show("ID out of range!", "OK", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 				return;   //退出 程序
 			}
 
 			im4_Length = Convert.ToByte(textBox4.Text);
 			if ((im4_Length == 0) || (im4_Length > 8))
 			{
-				MessageBox.Show("数据长度超出范围！", "提示", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+				MessageBox.Show("Data length exceeds the range!", "OK", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 				return;   //退出 程序
 			}
 
@@ -553,7 +553,29 @@ namespace Project
 			button6.Enabled = false;
 		}
 
+        private void label1_Click(object sender, EventArgs e)
+        {
 
+        }
 
-	}
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripStatusLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
 }
